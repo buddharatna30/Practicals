@@ -1,0 +1,10 @@
+ics practical 
+
+1.classical cipher hexadecimal/ascii
+2.substitution cipher
+3.transposition cipher
+4.demonstrate secret aes
+5.des
+6.rsa
+7.diffie helman
+8.md5
